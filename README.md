@@ -1,9 +1,5 @@
 <h1 align="center">👋 hi! i'm HELLKYXX </h1>
 
-<p align="center">
- <img width="600" src="[Parad1st-snake.svg](https://github.com/Parad1st/Parad1st/raw/main/Parad1st-snake.svg)" alt="snake"/>
-</p>
-
 ## About me
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://HELLKYXX.t.me)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@hellkyxxiki)
