@@ -1,7 +1,7 @@
 <h1 align="center">👋 hi! i'm HELLKYXX </h1>
 
 <p align="center">
- <img width="600" src="Parad1st-snake.svg" alt="snake"/>
+ <img width="600" src="[Parad1st-snake.svg](https://github.com/Parad1st/Parad1st/raw/main/Parad1st-snake.svg)" alt="snake"/>
 </p>
 
 ## About me
