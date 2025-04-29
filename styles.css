@@ -478,4 +478,9 @@ hyinya_s_nizy a {
     letter-spacing: 1px;
 }
 
+
+.no-pointer {
+    pointer-events: none;
+}
+
 /* End */
